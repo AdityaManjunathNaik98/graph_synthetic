@@ -97,6 +97,12 @@ Response:
                         "entity_name": "Audit Log",
                         "cdn_url": "https://cdn.gov-cloud.ai/_ENC(4+j2JOgE1QQdq6yO427Uztql2TlqlMwKUOg5QJcVQ5XUgB/GP4/J5WLrrqWMDU3q)/spde_data/fc5fbeb0-8047-4639-acc0-efedc3687164/ed172023-e982-4219-a4a6-fabbece0e5f4_$$_V1_audit_log.csv",
                         "attribute_count": 8
+                    },
+                    {
+                        "entity_id": "be_5b26ad3edfb7",
+                        "entity_name": "Performance Metrics",
+                        "cdn_url": "https://cdn.gov-cloud.ai/_ENC(4+j2JOgE1QQdq6yO427Uztql2TlqlMwKUOg5QJcVQ5XUgB/GP4/J5WLrrqWMDU3q)/spde_data/9c8aa684-8928-43f2-8ca9-09dcfeac6932/99731fa9-fade-49ea-ac87-f409dfd538d5_$$_V1_performance_metrics.csv",
+                        "attribute_count": 8
                     }
                 ]
             }
