@@ -46,14 +46,14 @@ Endpoint: `POST /api/graph_perturbation_synthetic`
 
 Request Body:
 
-`
+```json
 {
   "cdn_url": "https://cdn-new.gov-cloud.ai/path/to/file.json",
   "mode": "both",
   "row_count": 100,
   "model_name": "gpt-oss:20b"
 }
-`
+```
 Response:
 
 ```json
